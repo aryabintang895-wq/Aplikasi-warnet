@@ -1,9 +1,9 @@
 # Aplikasi Warnet
 
 ## Kelompok 8:
-### Arya Bintang Akbarri
-### Jibril Fawaz Alfirdaus
-### Justin Arya Barraq Logawi
+**Arya Bintang Akbarri**
+**Jibril Fawaz Alfirdaus**
+**Justin Arya Barraq Logawi**
 
 
 Ada 4 trigger terdiri dari :
